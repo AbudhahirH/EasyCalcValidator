@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* .component-app {
   display: flex;
   flex-direction: column;
@@ -22,4 +23,30 @@
 
 #calc-title{
   font-size: 14px;
+=======
+/* .component-app {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 100%;
+} */
+
+#cont-title{
+  padding: 20px;
+  font-size: 20px;
+}
+#calc-container{
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+  text-align: center;
+}
+#calc-table{
+  margin: 0 auto;
+}
+
+#calc-title{
+  font-size: 14px;
+>>>>>>> b99d80534c0f058a53bf688f49098beb6d82d353
 }
